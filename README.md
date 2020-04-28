@@ -22,7 +22,7 @@ The course is split into 3 major modules: beginners, intermediate, and advanced.
 
 A lot. There is _a lot_ in this course. Unless you're an expert Python programmer already, there's guaranteed to be something for you in this course. Below is an outline of the modules and the lessons involved in each module.
 
-##### Introduction Module
+#### Introduction Module
 - Python 2 vs. Python 3
 - Where is Python used?
 - Installing Python (Windows, MacOS and Linux)
@@ -31,7 +31,7 @@ A lot. There is _a lot_ in this course. Unless you're an expert Python programme
 - Where to download the code (This repo is where all the code lives!)
 - How to ask great questions (well formed questions means great answers!)
 
-##### Beginners Module
+#### Beginners Module
 - Basic arithmetic
 - Variables
 - Formatting code in Python
@@ -51,7 +51,7 @@ A lot. There is _a lot_ in this course. Unless you're an expert Python programme
 - Files
 - **Finish off this module by creating your first small Python program**
 
-##### Intermediate Module
+#### Intermediate Module
 - Comparison operators
 - Comparison shortcuts
 - Multiple comparison operators
@@ -73,7 +73,7 @@ A lot. There is _a lot_ in this course. Unless you're an expert Python programme
 - Lambda expressions
 - Scope
 
-##### Advanced Module
+#### Advanced Module
 - Welcome to OOP
 - Creating your first class
 - Class attributes
@@ -103,7 +103,7 @@ A lot. There is _a lot_ in this course. Unless you're an expert Python programme
 - Multiple Python versions
 - Local servers
 
-##### Capstone Project
+#### Capstone Project
 You will create an object detection application.
 
 By using classes, functions, loops and 3rd party packages in a virtual environment you'll be able to take a photograph and find cars, people, bikes, cats and many many more common objects. We'll do this all in Python as your capstone project.
