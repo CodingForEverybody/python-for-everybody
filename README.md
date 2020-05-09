@@ -7,7 +7,7 @@
 ### Where to get it:
 Python for Everybody is available on:
 - [x] [Skillshare](https://skl.sh/3a895Pn)
-- [ ] Udemy (coming soon)
+- [x] [Udemy](https://www.udemy.com/course/python-for-everybody-the-ultimate-modern-python-bootcamp/)
 - [ ] pythonforeverybody.com (coming soon)
 
 ### Who is this course for?
