@@ -27,7 +27,7 @@ A lot. There is _a lot_ in this course. Unless you're an expert Python programme
 - Where is Python used?
 - Installing Python (Windows, MacOS and Linux)
 - Command line crash course
-- Using the interactive notebooks
+- Using the interactive notebooks (Windows, MacOS and Linux)
 - Where to download the code (This repo is where all the code lives!)
 - How to ask great questions (well formed questions means great answers!)
 
